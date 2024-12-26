@@ -47,7 +47,7 @@ This is a password generator built using HTML, CSS, and JavaScript. It allows yo
 
 Here's a preview of the password generator:
 
-![Password Generator](https://your-image-url.com)
+[![Password Generator](https://your-image-url.com)](https://rakshithajk27.github.io/Random_password_generator/)
 
 ## License
 
